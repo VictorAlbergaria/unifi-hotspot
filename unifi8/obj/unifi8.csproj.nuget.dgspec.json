@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi8\\unifi8.csproj": {}
+    "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\unifi8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi8\\unifi8.csproj": {
+    "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\unifi8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi8\\unifi8.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\unifi8.csproj",
         "projectName": "unifi8",
-        "projectPath": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi8\\unifi8.csproj",
+        "projectPath": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\unifi8.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi8\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
