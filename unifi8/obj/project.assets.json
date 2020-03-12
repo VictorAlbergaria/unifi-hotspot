@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Victor\\.nuget\\packages\\": {}
+    "C:\\Users\\victor.albergaria\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\unifi8.csproj",
+      "projectUniqueName": "C:\\Users\\victor.albergaria\\Desktop\\Nova pasta\\unifi-hotspot\\unifi8\\unifi8.csproj",
       "projectName": "unifi8",
-      "projectPath": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\unifi8.csproj",
-      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor\\source\\repos\\unifi8\\unifi-hotspot\\unifi8\\obj\\",
+      "projectPath": "C:\\Users\\victor.albergaria\\Desktop\\Nova pasta\\unifi-hotspot\\unifi8\\unifi8.csproj",
+      "packagesPath": "C:\\Users\\victor.albergaria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victor.albergaria\\Desktop\\Nova pasta\\unifi-hotspot\\unifi8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victor.albergaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -68,3 +68,38 @@ C:\Users\Victor\source\repos\unifi8\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1
 C:\Users\Victor\source\repos\unifi8\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.dll
 C:\Users\Victor\source\repos\unifi8\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.pdb
 C:\Users\Victor\source\repos\unifi8\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.csproj.CopyComplete
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.exe
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.deps.json
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.runtimeconfig.json
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.runtimeconfig.dev.json
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.dll
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.pdb
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.Views.dll
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\bin\Debug\netcoreapp3.1\unifi8.Views.pdb
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.csprojAssemblyReference.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\staticwebassets\unifi8.StaticWebAssets.Manifest.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\staticwebassets\unifi8.StaticWebAssets.xml
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.RazorAssemblyInfo.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.RazorAssemblyInfo.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.AssemblyInfoInputs.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.AssemblyInfo.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.TagHelpers.input.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.TagHelpers.output.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.RazorCoreGenerate.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.RazorTargetAssemblyInfo.cache
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.RazorTargetAssemblyInfo.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.Views.pdb
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.dll
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.pdb
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.csproj.CopyComplete
