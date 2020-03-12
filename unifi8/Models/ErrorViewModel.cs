@@ -1,5 +1,3 @@
-using System;
-
 namespace unifi8.Models
 {
     public class ErrorViewModel
