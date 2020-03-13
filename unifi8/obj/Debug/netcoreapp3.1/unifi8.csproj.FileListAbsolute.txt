@@ -103,3 +103,5 @@ C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\net
 C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.dll
 C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.pdb
 C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\unifi8.csproj.CopyComplete
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admins.cshtml.g.cs
+C:\Users\victor.albergaria\Desktop\Nova pasta\unifi-hotspot\unifi8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Settings.cshtml.g.cs
